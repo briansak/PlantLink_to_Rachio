@@ -4,9 +4,6 @@ from requests.auth import HTTPBasicAuth
 import json
 import time
 
-def main():
-   storedCredentials = False
-
 # Replace the username and password field with your PlantLink authentication credentials.
 
 username = ''
